@@ -1,0 +1,2 @@
+# Runtime dependencies (see requirements.lock for pinned versions)
+azure-storage-blob>=12.24.0,<13
